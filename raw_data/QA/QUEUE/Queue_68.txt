@@ -1,0 +1,11 @@
+1.
+2.
+3.There is a element which content is data3 in the queue.
+True False
+4.This queue has a front pointer.
+True False
+5.How long is the queue?
+A.0 B.1 C.4 D.5
+6.This is a linked queue.
+True False
+x x False False D False

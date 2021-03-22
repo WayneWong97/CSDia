@@ -1,0 +1,13 @@
+1.What is the content of the first element of the queue?
+A.1 B.2 C.3 D.4
+2.What is the index which is pointed by the rear pointer in the queue?
+A.1 B.5 C.3 D.2
+3.There is a element which content is C in the queue.
+True False
+4.This is a array-based queue.
+True False
+5.How long is the queue?
+A.5 B.4 C.0 D.6
+6.The queue is empty.
+True False
+A,B,False,True,A,False

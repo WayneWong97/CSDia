@@ -1,0 +1,13 @@
+1.What is the content of the first element in the queue?
+A.0 B.A0 C.A1 D.An
+2.What is the content of the last element in the queue?
+A.data0 B.data1 C.data2 D.data3
+3.There is a element which content is A3 in the queue.
+True False
+4.This is an array-based queue.
+True False
+5.How many elements are there in the queue?
+A.0 B.1 C.2 D.3
+6.This queue is empty.
+Ture False
+A B False False D D False

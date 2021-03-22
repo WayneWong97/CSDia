@@ -1,0 +1,13 @@
+1. What is the content of the head node?
+A.0 B.4 C.1 D.2
+2. What is the content of the tail node?
+A.2 B.3 C.4 D.0
+3. The diagram shows an listed queue.
+True False
+4. There is an element with content 3 in the queue.
+True False
+5. How many elements are there in the queue?
+A.3 B.4 C.5 D.6
+6. Element 4 will be removed in a dequeue operation.
+True False
+A,C,True,True,C,False

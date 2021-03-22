@@ -1,0 +1,13 @@
+1. What is the content of the head node?
+A.1 B.3 C.5 D.10
+2. What is the content of the tail node?
+A.1 B.3 C.5 D.10
+3. The queue is empty.
+True False
+4. The diagram shows a listed queue.
+True False
+5. Which element will be removed in a dequeue operation?
+A.1 B.3 C.5 D.10
+6. There are 5 elememnts in the queue.
+True False
+D,A,False,True,D,True

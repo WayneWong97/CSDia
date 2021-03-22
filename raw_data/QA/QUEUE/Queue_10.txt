@@ -1,0 +1,13 @@
+1.What is the content of front in the queue?
+    A.a    B.b    C.c   D.d
+2.What is the content of rear in the queue?
+    A.a    B.b    C.c   D.d
+3.There is an element with content d in the queue.
+    True    False
+4.There are 4 elements in this queue.
+    True    False
+5.What is the content of element that will be moved when doing next dequeue operation?
+    A.a    B.b    C.c   D.d
+6.It is a linked queue in this picture.
+    True    False
+A,C,False,False,A,True

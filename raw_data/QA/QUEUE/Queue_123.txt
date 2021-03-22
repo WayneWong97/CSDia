@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.12 B.'b' C.'c' D.31
+2.What is the content of the element in the front of the queue?
+A.3 B.'a' C.'c' D.31
+3.There is a element which content is 5 in the queue.
+True False
+4.The content of the third element of the queue is 'a'.
+True False
+5.How many elements are there in the queue?
+A.3 B.4 C.5 D.6
+6.The content of the next element to be inserted is 3.
+True False
+C,D,False,True,D,False

@@ -1,0 +1,13 @@
+1. What is the index of the front element of the queue?
+A.0 B.1 C.2 D.3
+2. Which element has an index 2?
+A. data1 B. data2 C.data3 D.data4
+3. Element data0 is in the queue.
+True False
+4. Q.rear is pointing to the element with index 4.
+True False
+5. How many elements are there in the queue?
+A.1 B.2 C.3 D.4
+6. data2 is inserted after data3.
+True False
+B,B,False,True,C,False

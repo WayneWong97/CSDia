@@ -1,0 +1,13 @@
+1. What is the content of the front element?
+A.0 B.1 C.2 D.3
+2. What is the index of element 2?
+A.0 B.1 C.2 D.3
+3. The diagram shows an array-based queue.
+True False
+4. The queue is full.
+True False
+5. How many elements can there be at most in the queue?
+A.3 B.4 C.5 D.6
+6. The front element will have an index 2 after a dequeue operation.
+True False
+B,B,True,False,C,False

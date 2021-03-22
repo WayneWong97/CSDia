@@ -1,0 +1,13 @@
+1. Which element has an index 2?
+A.A B.B C.C D.D
+2. What is the index of the front element?
+A.0 B.1 C.2 D.3
+3. D is in the queue.
+True False
+4. B has an index 1.
+True False
+5. What is the length of the queue?
+A.1 B.2 C.3 D.4
+6. C will be removed after B.
+True False
+C,A,False,True,C,True

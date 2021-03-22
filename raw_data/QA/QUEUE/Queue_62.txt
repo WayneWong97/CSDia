@@ -1,0 +1,13 @@
+1. What is the content of the front element?
+A.a0 B.a1 C.2 D.null
+2. What is the content of the last element?
+A.a2 B.a3 C.5 D.null
+3. The diagram shows a linked queue.
+True False
+4. Q.front and Q.rear points to the same element.
+True False
+5. What is the maximum number of elements in the queue??
+A.3 B.4 C.5 D.6
+6. The diagram shows an empty queue.
+True False
+D,D,False,True,C,True

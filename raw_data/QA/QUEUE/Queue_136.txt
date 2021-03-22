@@ -1,0 +1,13 @@
+1. What is the content of the head node?
+A.2 B.3 C.5 D.7
+2. What is the content of the tail node?
+A.2 B.3 C.5 D.7
+3. The diagram shows an array-based queue.
+True False
+4. There is an element 2 in the queue.
+True False
+5. Which element will be removed in a dequeue operation?
+A.2 B.3 C.5 D.7
+6. Every element in the queue is a prime.
+True False
+C,B,True,True,C,True

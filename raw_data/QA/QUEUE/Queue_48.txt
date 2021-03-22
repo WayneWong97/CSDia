@@ -1,0 +1,13 @@
+1.What is content of front in the queue?
+    A.a   B.b   C.c   D.d
+2.What is the content of the element with index 5 in the queue?
+    A.d   B.e   C.f   D.g
+3.The content of the element with index 0 in the queue is a.
+    True    False
+4.There are now 7 elements in the queue.
+    True    False
+5.How many elements can this queue store?
+    A.5   B.6    C.7   D.8
+6.The element with a content c will be moved when doing dequeue opreation.
+    True    False
+C,C,False,True,C,True

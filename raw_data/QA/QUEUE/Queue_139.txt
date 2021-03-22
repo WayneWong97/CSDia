@@ -1,0 +1,13 @@
+1. What is the content of the front element?
+A.13 B.17 C.19 D.23
+2. What is the content of the rear element?
+A.567 B.678 C.789 D.890
+3. The diagram shows an array-based queue.
+True False
+4. The queue is full.
+True False
+5. Which element in the queue is a prime?
+A.23 B.687 C.78 D.65
+6. There can be at most 7 elements in the queue.
+True False
+D,B,True,False,A,True

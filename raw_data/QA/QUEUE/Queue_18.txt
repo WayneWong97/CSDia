@@ -1,0 +1,13 @@
+1.What is the content of head element?
+    A.A   B.AA   C.BB   D.CC
+2.What is the content of the element with index 2 in the queue?
+    A.A   B.AA   C.BB   D.CC
+3.There is an element with content DD in the queue.
+    True    False
+4.The index of the element of with content BB is 2.
+    True    False
+5.What is the content of element that will be moved when doing next dequeue operation?
+    A.A   B.AA   C.BB   D.CC
+6.The element with content BB is next to the element with content AA.
+    True    False
+B,D,False,False,B,True

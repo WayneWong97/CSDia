@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.a0 B.a1 C.a2 D.an-1
+2. What is the content of the rear node?
+A.a0 B.a1 C.an-2 D.an-1
+3. The diagram shows an array-based queue.
+True False
+4. The element an is in the queue.
+True False
+5. How many elements are there in the queue?
+A.1 B.n-1 C.n D.n+1
+6. Element a1 will be removed in a dequeue operation.
+True False
+A,D,False,False,C,False

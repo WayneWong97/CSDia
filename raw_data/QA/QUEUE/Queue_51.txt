@@ -1,0 +1,13 @@
+1. What is the content of the head node?
+A.Data B.a1 C.a2 D.an
+2. What is the content of the front node?
+A.Data B.a1 C.a2 D.an
+3. The node with content a2 is in the queue.
+True False
+4. This diagram shows a array-based queue.
+True False
+5. What is the content of the next node pointed to by the head node?
+A.Data B.a1 C.a2 D.an
+6. There are n nodes in the queue.
+True False
+A,B,True,True,B,False

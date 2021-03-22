@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.3 B.1 C.4 D.2
+2.How long is the queue?
+A.2 B.6 C.0 D.5
+3.There is a element which content is 6 in the queue.
+True False
+4.The sum of the contents of the elements in the queue is 24.
+True False
+5.What is the content of the element that will be poped out after one dequeue operation?
+A.4 B.2 C.3 D.9
+6.The queue is empty.
+True False
+C,B,False,True,D,False

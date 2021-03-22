@@ -1,0 +1,13 @@
+1. What is the weight of the element with index 2?
+A.98 B.32 C.54 D.60
+2. What is the index of the element with weight 32?
+A.0 B.1 C.2 D.3
+3. There is an element with weight 45 in the queue.
+True False
+4. The diagram shows an listed queue.
+True False
+5. How many elements are there in the queue?
+A.5 B.6 C.7 D.8
+6. 32 will be removed after 54.
+True False
+C,B,True,False,C,False

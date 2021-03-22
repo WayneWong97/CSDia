@@ -1,0 +1,13 @@
+1. What is the content of the element that front pointer points to?
+A.1st Value B.2nd Value C.3rd Value D.4th Value
+2. What is the content of the element that rear pointer points to?
+A.1st Value B.2nd Value C.3rd Value D.4th Value
+3. The queue is empty.
+True False
+4. The diagram shows a linked queue.
+True False
+5. How many elements are there in the queue?
+A.1 B.2 C.3 D.4
+6. The 2nd Value is inserted before the 3rd Value.
+True False
+A,D,False,True,D,True

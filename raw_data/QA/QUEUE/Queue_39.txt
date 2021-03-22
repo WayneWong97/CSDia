@@ -1,0 +1,13 @@
+1.What is the content of head in the queue?
+    A.A   B.B   C.C   D.D
+2.What is the content of the element with index 2 in the queue? 
+    A.A   B.B   C.C   D.D
+3.The content of the element with index 1 in the queue is B.
+    True    False
+4.This queue can store 6 elements.
+    True    False
+5.What is the content of the element that will be moved when doing next dequeue operation?
+    A.A   B.C   C.D   D.E
+6.There are now 2 empty elements in the queue.
+    True    False
+A,C,True,True,A,True

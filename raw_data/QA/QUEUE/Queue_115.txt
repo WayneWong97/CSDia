@@ -1,0 +1,13 @@
+1.What is the index of the element pointed by the front pointer?
+A.0 B.1 C.2 D.3
+2.How long is the queue?
+A.2 B.3 C.0 D.5
+3.There is a element which content is 15 in the queue.
+True False
+4.This is a circular queue.
+True False
+5.What is the index of the element pointed by the rear pointer?
+A.1 B.2 C.3 D.4
+6.The queue is empty.
+True False
+A,D,False,True,D,False

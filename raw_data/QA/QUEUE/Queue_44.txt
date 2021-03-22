@@ -1,0 +1,13 @@
+1.What is the content of head in the queue?
+    A.d   B.b   C.c   D.a
+2.What is the content of the element with index 3 in the queue?
+    A.d   B.b   C.c   D.a
+3.There is an element with content e in the queue.
+    True    False
+4.The index of the element of with content of b is 5.
+    True    False
+5.How many elements can this queue store?
+    A.5   B.6    C.8   D.9
+6.The element with a content b will be moved when doing dequeue opreation.
+    True    False
+D,A,False,False,A,False

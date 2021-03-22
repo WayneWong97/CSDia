@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.2 B.1 C.3 D.5
+2.What is the content of the third element of the queue?
+A.5 B.1 C.7 D.4
+3.There is an element which content is 5 in the queue.
+True False
+4.The size of the queue is 6.
+True False
+5.What is the content of the last element after an enqueue operation?
+A.5 B.6 C.7 D.8
+6.This queue is empty.
+True False
+C,D,False,True,c,False

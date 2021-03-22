@@ -1,0 +1,13 @@
+1. What is the weight of the front element of the queue?
+A.28 B.19 C.45 D.13
+2. What is the index of element 13?
+A.0 B.1 C.2 D.3
+3. Weight of the back element is 7.
+True False
+4. There is an element of weight 14 in the queue.
+True False
+5. What is the length of the queue?
+A.3 B.4 C.5 D.6
+6. After a dequeue operation, the front pointer will point to the element with weight 19.
+True False
+A,D,True,False,C,True

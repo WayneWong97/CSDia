@@ -1,0 +1,13 @@
+1. What is the content of the front element?
+A.100 B.200 C.700 D.900
+2. What is the content of the rear node?
+A.Null B.100 C.200 D.800
+3. Element 400 is in the queue.
+True False
+4. The diagram shows an linked queue.
+True False
+5. How many elements are there in the queue?
+A.3 B.4 C.5 D.6
+6. The earlier the element was inserted, the smaller the element is.
+True False
+A,A,False,False,D,False

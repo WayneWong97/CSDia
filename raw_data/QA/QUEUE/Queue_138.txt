@@ -1,0 +1,13 @@
+1. Which is the first element entered in queue?
+A.A B.B C.C D.D
+2. Which is the last element entered in queue?
+A.C B.D C.E D.F
+3. The diagram shows an array-based queue.
+True False
+4. The queue is empty.
+True False
+5. Which element will be removed in a dequeue operation?
+A.A B.B C.C D.D
+6. There are 6 elements in the queue?
+True False
+A,D,False,False,A,True

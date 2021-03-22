@@ -1,0 +1,13 @@
+1. Which element does the front of the queue point to?
+A.data3 B.data4 C.data5 D.data6
+2. Which element has an index 2?
+A.data5 B.data6 C.data7 D.data8
+3. data1 is in the queue.
+True False
+4. data6 has an index 0.
+True False
+5. What is the length of the queue?
+A.3 B.4 C.5 D.6
+6. There can be at most 6 elements in this queue.
+True False
+B,D,False,True,C,False

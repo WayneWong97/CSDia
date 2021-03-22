@@ -1,0 +1,13 @@
+1.What is the content of head in the queue?
+    A.D6   B.D7   C.D8   D.D10
+2.What is the index of the head in the queue?
+    A.2   B.3   C.4   D.5
+3.There is an element with content of D5 in the queue.
+    True    False
+4.The index of the element of with content of D6 is 5.
+    True    False
+5.How many elements can this queue store?
+    A.6   B.7    C.8   D.9
+6.There are now 4 elements in the queue
+    True    False
+A,D,False,True,C,False

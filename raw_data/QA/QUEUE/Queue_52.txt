@@ -1,0 +1,13 @@
+1. What is the content of the element which Q.front point to?
+A.a1 B.a2 C.a3 D.a4
+2. What is the content of the last element in the queue?
+A.a5 B.a6 C.a7 D.a8
+3. Q.front points to a1.
+True False
+4. An element with content a2 is in the queue.
+True False
+5. How many elements at most can there be in the queue?
+A.5 B.6 C.7 D.8
+6. The queue is full.
+True False
+A,C,True,True,C,True

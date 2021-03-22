@@ -1,0 +1,13 @@
+1. What is the content of the element that Q.front points to?
+A.a0 B.a1 C.5 D.null
+2. What is the content of the last element in the queue?
+A.a2 B.a3 C.8 D.null
+3. Q.front and Q.rear points to the same element.
+True False
+4. There can be at most 6 elements in the queue.
+True False
+5. How many elements are there in the queue?
+A.0 B.1 C.2 D.3
+6. This is a list-based queue.
+True False
+D,D,True,False,A,False

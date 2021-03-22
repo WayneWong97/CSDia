@@ -1,0 +1,13 @@
+1.What is the content of the first element of the queue?
+A.a_n B.a_1 C.a_m D.a_0
+2.What is the content of the last element?
+A.a_0 B.a_1 C.a_m D.a_n
+3.The element 4 is in the queue.
+True False
+4.This queue is a linked queue.
+True False
+5.What is the length of the queue?
+A.0 B.m C.n D.2n
+6.The sum of the values of elements in the queue is 25.
+True False
+B D False True C False

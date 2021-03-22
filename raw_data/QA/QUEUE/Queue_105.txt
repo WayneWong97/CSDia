@@ -1,0 +1,12 @@
+1. What is the weight of the element with index 0?
+A.0 B.1 C.2 D.3
+2. What is the index of the rear node?
+A.3 B.4 C.5 D.6
+3. The diagram shows an array-based queue.
+True False
+4. Element 0 is in the queue.
+True False
+5. How many elements are there in the queue?
+A.3 B.4 C.5 D.6
+6. The queue is full.
+B,C,True,False,D,True

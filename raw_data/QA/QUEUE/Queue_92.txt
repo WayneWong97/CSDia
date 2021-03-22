@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.0 B.Front C.Null D.1
+2. What is the content of the rear node?
+A.1 B.Rear C.6 D.Null
+3. Front and Rear points to the same element.
+True False
+4. The diagram shows an array-based queue.
+True False
+5. How many elements can there be at most in the queue?
+A.3 B.4 C.5 D.6
+6. The queue is empty.
+True False
+C,D,True,True,C,True

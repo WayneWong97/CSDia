@@ -1,0 +1,13 @@
+1.What is the content of the first element of the queue?
+A.n_0 B.n_1 C.n_m D.n_3
+2.What is the content of the last element?
+A.n_0 B.n_1 C.n_5 D.n_6
+3.The element n_4 is in the queue.
+True False
+4.This queue is a linked queue.
+True False
+5.What is the length of the queue?
+A.0 B.1 C.n D.6
+6.This queue is empty.
+True False
+A,D,True,False,D,False

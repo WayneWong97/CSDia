@@ -1,0 +1,13 @@
+1.What is the content of the first element of the queue?
+A.a_1 B.a_2 C.a_3 D.a_4
+2.What is the index with index 3 in the queue?
+A.a_0 B.a_1 C.a_2 D.a_3
+3.There is a element which content is a_4 in the queue.
+True False
+4.This is a array-based queue.
+True False
+5.How long is the queue?
+A.3 B.4 C.0 D.6
+6.The queue is empty.
+True False
+A,C,False,False,A,False

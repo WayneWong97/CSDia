@@ -1,0 +1,13 @@
+1. What is the content of the front node of the queue?
+A.100 B.200 C.300 D.400
+2. What is the content of the rear node of the queue?
+A.100 B.200 C.300 D.400
+3. The diagram shows an array-based queue.
+True False
+4. The queue is empty.
+True False
+5. Which element in the queue is the latest inserted one?
+A.100 B.200 C.300 D.400
+6. The sum of the elements in the queue is 1250.
+True False
+A,B,True,False,B,True

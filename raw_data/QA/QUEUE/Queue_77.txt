@@ -1,0 +1,13 @@
+1.What is the content of the element pointed by the front pointer?
+A.0 B.3 C.n D.NaN
+2.How long is this queue?
+A.n B.2 C.1 D.2n
+3.There is an element with a weight of 15 in the array.
+True False
+4.This is an array-based queue.
+True False
+5.What is the pointer pointing at the last element?
+A.end B.begin C.front D.rear
+6.This queue is empty.
+Ture False
+D,B,False,False,D,False

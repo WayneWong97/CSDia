@@ -1,0 +1,13 @@
+1.What is the value of front in the queue?
+    A.11   B.33   C.55   D.66
+2.What is the weight of the element with index 5 in the queue?
+    A.11   B.33   C.55   D.66
+3.The weight of the element with index 1 in the queue is 100.
+    True    False
+4.The index of the element with weight 44 is 3.
+    True    False
+5.How many elements can this queue store?
+    A.5   B.6    C.7   D.9
+6.There are now 4 empty elements in the queue.
+    True    False
+A,D,False,True,D,False

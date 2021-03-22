@@ -1,0 +1,13 @@
+1. What is the front element of the queue?
+A.10 B.12 C.231 D.90
+2. What is the rear element of the queue?
+A.12 B.10 C.90 D.28
+3. The diagram shows an array-based queue.
+True False
+4. There is an element 20 in the queue.
+True False
+5. Which element is going to be removed in a dequeue operation?
+A.10 B.12 C.90 D.28
+6. There are 6 elements in the queue.
+True False
+A,A,False,False,A,True

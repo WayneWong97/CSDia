@@ -1,0 +1,13 @@
+1. Which element has an index 1?
+A.28 B.19 C.45 D.13
+2. What is the weight of the back element of the queue?
+A.45 B.13 C.7 D.0
+3. There is an element with weight 3 in the queue.
+True False
+4. The front element and the back element are the same.
+True False
+5. What is the sum of the weight of all elements in the queue?
+A.111 B.112 C.113 D.114
+6. The size of the queue is 5.
+True False
+B,C,False,False,B,True

@@ -1,0 +1,16 @@
+1. What is the content of the first element of the queue?
+A.5 B.10 C.15 D.20
+2. What is the content of the rear element of the queue?
+A.15 B.20 C.25 D.30
+3. The diagram shows a linked queue.
+True False
+4. The queue is empty.
+True False
+5. Which elements are going to be removed in 4 dequeue operations?
+A.5,10,20 and 30
+B.5,10,15 and 20
+C.10,20 and 30
+D.5
+6. Every element in the queue is a multiple of 5.
+True False
+B,C,False,False,A,True

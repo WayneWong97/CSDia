@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.-6 B.8 C.10 D.16
+2. What is the content of the rear node?
+A.-6 B.8 C.10 D.16
+3. The queue is empty.
+True False
+4. The diagram shows an linked queue.
+True False
+5. What is the sum of the elements in the queue?
+A.26 B.28 C.30 D.32
+6. Every element in the queue is a positive number.
+True False
+C,D,False,True,B,False

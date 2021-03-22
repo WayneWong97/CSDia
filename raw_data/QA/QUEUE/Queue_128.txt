@@ -1,0 +1,13 @@
+1.What is the content of the first element of the queue?
+A.D B.B C.A D.F
+2.What is the content of the last element in the queue?
+A.D B.B C.A D.F
+3.The element G is in the queue.
+True False
+4.This queue is an array based queue.
+True False
+5.What is the length of the queue?
+A.0 B.2 C.5 D.6
+6.The sum of the content of the elements in the queue is 30.
+True False
+C,D,False,True,D,False

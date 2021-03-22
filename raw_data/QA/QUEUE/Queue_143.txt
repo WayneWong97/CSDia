@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.'A' B.'V' C.'G' D.'J'
+2. What is the content of the rear node?
+A.'A' B.'V' C.'G' D.'J'
+3. The diagram shows a linked queue.
+True False
+4. There are 2 'A's in the queue.
+True False
+5. How many elements are there in the queue?
+A.1 B.2 C.3 D.4
+6. The 'J' will be removed in a dequeue operation.
+True False
+D,A,True,True,D,True

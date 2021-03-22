@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.0 B.1 C.2 D.Null
+2. What is the content of the rear node?
+A.1 B.Rear C.6 D.Null
+3. This diagram shows a listed queue.
+True False
+4. The queue is empty.
+True False
+5. How many elements are there in the queue?
+A.5 B.6 C.7 D.8
+6. The queue is empty.
+True False
+D,D,True,False,C,False

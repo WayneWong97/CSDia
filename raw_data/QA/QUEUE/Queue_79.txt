@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.A B.B C.C D.D
+2.What is the index which is pointed by the front pointer in the queue?
+A.0 B.1 C.2 D.4
+3.There is a element which content is C in the queue.
+True False
+4.The index of the element with content C is 3.
+True False
+5.How long is the queue?
+A.5 B.4 C.0 D.6
+6.The queue is empty.
+True False
+B,A,True,False,A,False

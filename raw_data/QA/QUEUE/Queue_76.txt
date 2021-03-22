@@ -1,0 +1,13 @@
+1.What is the content of the second element of the queue?
+A.a1 B.a4 C.a5 D.a6
+2.What is the content of the third element of the queue?
+A.a1 B.a4 C.a5 D.a6
+3.There is an element which content is a2 in the queue.
+True False
+4.This queue is an array-based queue.
+True False
+5.How long is this queue?
+A.6 B.1 C.4 D.5
+6.This queue is empty.
+Ture False
+B,C,False,True,C,False

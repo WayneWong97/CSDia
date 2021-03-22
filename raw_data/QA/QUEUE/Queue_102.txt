@@ -1,0 +1,13 @@
+1. What is the content of the front node?
+A.0 B.1 C.10 D.11
+2. What is the content of the rear node?
+A.0 B.1 C.10 D.11
+3. The element with index 3 has an weight of 3.
+True False
+4. The diagram shows an array-based queue.
+True False
+5. How many elements are there in the queue?
+A.3 B.4 C.5 D.6
+6. This queue is full.
+True False
+B,C,True,True,D,True

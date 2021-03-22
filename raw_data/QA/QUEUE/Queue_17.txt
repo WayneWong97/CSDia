@@ -1,0 +1,13 @@
+1.What is the maximun index?
+    A.6   B.7   C.8   D.9
+2.What is the minimun index?
+    A.-1   B.0   C.1   D.2
+3.The queue now is empty.
+    True    False
+4.There is 1 element in this queue.
+    True    False
+5.What is the index next to index 7?
+    A.6   B.5   C.0   D.1
+6.It is a linked queue in this picture.
+    True    False
+B,B,True,False,C,False

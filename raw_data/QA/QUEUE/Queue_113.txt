@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.30 B.10 C.40 D.20
+2.What is the content which is pointed by the front pointer in the queue?
+A.50 B.10 C.40 D.20
+3.There is a element which content is C in the queue.
+True False
+4.The content of the last element of the queue is 10.
+True False
+5.How long is the queue?
+A.5 B.4 C.0 D.6
+6.The sum of the contents of the elements in the queue is 160.
+True False
+C,A,False,False,A,False

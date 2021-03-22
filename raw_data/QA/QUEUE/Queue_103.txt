@@ -1,0 +1,13 @@
+1. What is the content of the front element?
+A.5 B.10 C.15 D.20
+2. What is the content of the rear element?
+A.5 B.10 C.15 D.20
+3. There's an element with weight 12 in the queue.
+True False
+4. The diagram shows an listed queue.
+True False
+5. Which element will be removed in a dequeue operation?
+A.5 B.10 C.15 D.20
+6. There are 5 elements in the queue.
+True False
+B,A,True,True,B,True

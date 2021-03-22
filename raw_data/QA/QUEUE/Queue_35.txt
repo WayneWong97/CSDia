@@ -1,0 +1,13 @@
+1.What is the content of front in the queue?
+    A.a   B.c   C.d   D.e
+2.What is the content of the element with index 6 in the queue?
+    A.a   B.c   C.d   D.g
+3.The content of the element with index 1 in the queue is b.
+    True    False
+4.The index of the element with content d is 3.
+    True    False
+5.What is the content of the element that will be moved when doing next dequeue operation?
+    A.a   B.c   C.d   D.e
+6.There are now 6 empty elements in the queue.
+    True    False
+A,D,True,True,A,False

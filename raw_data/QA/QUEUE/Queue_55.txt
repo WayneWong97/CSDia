@@ -1,0 +1,13 @@
+1. What is the content of the front element of the queue?
+A.0 B.1 C.2 D.null
+2. What is the index of the front element of the queue?
+A.0 B.1 C.2 D.3
+3. The diagram shows an array-based queue.
+True False
+4. The front pointer and rear pointer points to the same element.
+True False
+5. What is the maximum number of elements in the queue?
+A.5 B.6 C.7 D.8
+6. The queue is full.
+True False
+D,A,True,True,C,False

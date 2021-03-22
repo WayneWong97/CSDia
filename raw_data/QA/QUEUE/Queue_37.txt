@@ -1,0 +1,13 @@
+1.What is the value of front in the queue?
+    A.22   B.33   C.44   D.11
+2.How many elements are in the queue?
+    A.4   B.5   C.6   D.7
+3.There are now 2 empty elements in the queue.
+    True    False
+4.There are 6 elements in this queue.
+    True    False
+5.What is the weight of the element that will be moved when doing next dequeue operation?
+    A.22   B.33   C.44   D.11
+6.The element with weight 33 is next to the element with weight 44.
+    True    False
+D,D,False,True,D,False

@@ -1,0 +1,13 @@
+1. What is the weight of the front of the queue?
+A.1 B.2 C.3 D.4
+2. What is the weight of the back of the queue?
+A.1 B.2 C.3 D.4
+3. There is an element with weight 3 in the queue.
+True False
+4. The diagram shows an array-based queue.
+True False
+5. How many elements are there in the queue?
+A.1 B.2 C.3 D.4
+6. Element 3 will be removed after element 2.
+True False
+A,B,T,True,True,D,True

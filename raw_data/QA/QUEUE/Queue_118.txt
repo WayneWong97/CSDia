@@ -1,0 +1,13 @@
+1.What is the content of the element with index three in the queue?
+A.61 B.53 C.62 D.42
+2.What is the content which is pointed by the front pointer?
+A.12 B.53 C.34 D.42
+3.There is a element which content is 35 in the queue.
+True False
+4.The sum of the contents of the elements in the queue is 234.
+True False
+5.How long is the queue?
+A.5 B.7 C.0 D.6
+6.The queue is empty.
+True False
+A,C,False,True,B,False

@@ -1,0 +1,13 @@
+1. What is the content of the first element in the queue?
+A.2 B.3 C.4 D.5
+2. What is the content of the last element in the queue?
+A.2 B.3 C.4 D.5
+3. There is an element 3 in the queue.
+True False
+4. The diagram shows an array-based queue.
+True False
+5. What is the sum of the elements in the queue?
+A.13 B.14 C.15 D.16
+6. There are 5 elements in the queue.
+True False
+A,D,True,True,B,False

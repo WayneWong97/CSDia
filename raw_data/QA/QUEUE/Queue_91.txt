@@ -1,0 +1,13 @@
+1. What is the content of the front element of the queue?
+A.0 B.1 C.2 D.3
+2. What is the content of the last element?
+A.0 B.1 C.2 D.3
+3. Element 2 is in the queue.
+True False
+4. The diagram shows an listed queue.
+True False
+5. What is the size of the queue?
+A.1 B.2 C.3 D.4
+6. 2 will be removed after 3.
+True False
+B,D,True,True,C,False

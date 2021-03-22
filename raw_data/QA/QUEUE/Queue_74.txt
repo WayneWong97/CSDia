@@ -1,0 +1,11 @@
+1.
+2.
+3.There is an element with a weight of 15 in the array.
+True False
+4.There is an element with a weight of 0 in the array.
+True False
+5.How long is this queue?
+A.n B.0 C.1 D.2n
+6.This queue is empty.
+Ture False
+x x False False B True

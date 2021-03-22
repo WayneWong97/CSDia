@@ -1,0 +1,13 @@
+1.What is the content of the element with index one in the queue?
+A.Item 3 B.Item 4 C.Item 5 D.Item 6
+2.What is the content which is pointed by the rear pointer in the queue?
+A.Item 3 B.Item 4 C.Item 5 D.Item 6
+3.There is a element which content is Item 1 in the queue.
+True False
+4.The content of the third element of the queue is 4.
+True False
+5.What is the index of the element which content is Item 4?
+A.0 B.1 C.2 D.3
+6.This queue is full.
+True False
+B,D,False,False,B,False

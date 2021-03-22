@@ -1,0 +1,13 @@
+1.What is the index of the element pointed by the front pointer?
+A.A B.B C.C D.D
+2.How long is the queue?
+A.0 B.2 C.1 D.4
+3.There is a element which content is C in the queue.
+True False
+4.The content of the last element of the queue is E.
+True False
+5.What is the index of the element pointed by the rear pointer?
+A.A B.B C.C D.D
+6.The queue is empty.
+True False
+A,D,True,False,D,False
